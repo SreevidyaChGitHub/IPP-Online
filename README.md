@@ -23,4 +23,4 @@ the Billers.<br/>
 - Preparing Release documents for every application for the deployment in production.
 - Development of web services in C#.
 - Development of SSIS packages and also migration of existing DTS packages to SSIS.
-- Testing - unit testing and integration testing.
+- Testing - Unit testing and Integration testing.
