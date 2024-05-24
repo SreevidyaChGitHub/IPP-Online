@@ -19,7 +19,8 @@ the Billers.<br/>
 
 <b>Contribution as a Team member</b><br/>
 - Analysing the requirements assigned and preparing low-level design(LLD) document.
-- Coding using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
+- Coding using ASP.NET, C#, Java Script.
+- Working with SQL Server - databases, tables, views, stored procedures, user-defined functions etc.
 - Preparing Release documents for every application for the deployment in production.
 - Development of web services in C#.
 - Development of SSIS packages and also migration of existing DTS packages to SSIS.
