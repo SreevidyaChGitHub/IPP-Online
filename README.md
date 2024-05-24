@@ -18,8 +18,8 @@ records are transferred electronically from the retail location to IPP’s data 
 the Billers.<br/>
 
 <b>Contribution as a Team member</b><br/>
-- Analysis of the requirements assigned and preparing low-level design(LLD) document.
-- Development of applications using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
+- Analysing the requirements assigned and preparing low-level design(LLD) document.
+- Coding using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
 - Preparing Release documents for every application for the deployment in production.
 - Development of web services in C#.
 - Development of SSIS packages and also migration of existing DTS packages to SSIS.
